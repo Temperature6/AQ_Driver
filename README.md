@@ -17,6 +17,7 @@ ChipType_[Libraries]_MoudleName_[others...]
 ### 更新日志 (日期降序)
 
 ```
+2023/08/03 -[Update]OPi_StdC_ws2812
 2023/07/24 -[Add]OPi_StdC_BmpDecoder
 2023/05/14 -[Add]STM32_HAL_ssd1306
 2023/05/14 -[Add]OPi_StdC_ws2812
